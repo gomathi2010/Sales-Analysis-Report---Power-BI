@@ -26,8 +26,11 @@ SodaPop stands out as the retailer with the highest sales.
 **Insights**
 
 July and December were key months for sales, each achieving $1.0M in revenue.
+
 New York City remains the top-performing city in terms of total sales.
+
 Coca-Cola is the most sold beverage brand, followed by significant sales from other brands.
+
 SodaPop is the leading retailer, contributing significantly to total sales.
 
 **Conclusion**
